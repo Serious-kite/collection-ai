@@ -99,4 +99,4 @@
 
 **这是我的第一次 python 的作业，顺便打出那个咒语吧**  
 
-`print(Hello,World!)`
+`print("Hello,World!")`
